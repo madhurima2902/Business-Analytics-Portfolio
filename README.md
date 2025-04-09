@@ -47,9 +47,7 @@ Cleaned and structured a raw sales dataset to prepare it for further analysis. F
 ## 📫 Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/ghoshmadhurima
-- **Email:** your.email@example.com
-- **Location:** Texas, USA
-
+  
 ---
 
 Thank you for visiting! Feel free to explore the individual folders for project-specific documentation, code, and visualizations.
