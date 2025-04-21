@@ -24,13 +24,15 @@ I’m enrolled in the **Google Data Analytics Professional Certificate** and act
 
 ## 📂 Featured Projects
 
-### 🔹 [Cyclistic Bike Share Case Study](./Google-Data-Analytics/Project-2-Bike-Case-Study)
+### 🔹 [Cyclistic Bike Share Case Study](./Google-Data-Analytics/Project-1-Bike-Case-Study)
 
-A capstone case study from the Google Data Analytics course, analyzing usage trends of a fictional bike-sharing company to inform business strategy.
+A capstone case study from the Google Data Analytics course, analysing usage trends of a fictional bike-sharing company to inform business strategy.
 
-- Tool: R (tidyverse, ggplot2)
-- Key Tasks: Data cleaning, trend analysis, visualization, business recommendations
-- Outcome: Actionable insights on user behavior to support marketing decisions
+- Tools:
+  - Data Exploration, Analysis - BigQuery, SQL
+  - Visualizatons - Tableau, R(tidyverse, ggplot2)
+- Key Tasks: Data cleaning, trend analysis, visualisation, business recommendations
+- Outcome: Actionable insights on user behaviour to support marketing decisions
 
 ---
 
