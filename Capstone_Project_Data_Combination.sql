@@ -1,4 +1,4 @@
-Combine Monthly Trip Data for 2024 into a Single Table
+-- Combine Monthly Trip Data for 2024 into a Single Table
 -- The original Cyclistic trip data for 2024 was provided as separate monthly tables.
 -- This query merges all 12 monthly tables into a unified dataset for streamlined analysis.
   
