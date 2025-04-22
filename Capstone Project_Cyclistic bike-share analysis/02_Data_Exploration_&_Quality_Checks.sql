@@ -1,4 +1,4 @@
---Data Exploration and Quality Checks
+*--Data Exploration and Quality Checks*
 
 -- Display Table
 SELECT *
@@ -48,7 +48,7 @@ SELECT
   COUNTIF(ended_at IS NULL) AS null_ended_at,
   COUNTIF(member_casual IS NULL) AS null_user_type
 FROM `aqueous-cargo-456422-q1.bike_data.tripdata_2024_combined`;
--- O/P -> all values are 0 indicating no missing values for these columns
+-- Output -> all values are 0 indicating no missing values for these columns
 
 -- Counting for duplicate values
 SELECT
