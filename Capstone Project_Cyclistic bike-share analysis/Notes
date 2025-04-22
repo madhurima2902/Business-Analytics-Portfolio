@@ -1,26 +1,26 @@
 Question: How do annual members and casual riders use Cyclistic bikes differently?
 
-I am comparing usage behavior between two groups: member (annual members) vs casual (single-ride and day-pass users)
+I am comparing usage behaviour between two groups: member (annual members) vs casual (single-ride and day-pass users)
 
 2. What kind of differences are we looking for?
 
 Ride Count	-> Do members or casual riders take more trips overall?	Shows engagement and frequency
 Ride Duration	-> Who takes longer rides on average?	Indicates usage pattern (leisure vs. commute)
-Day of Week ->	Do casual riders prefer weekends? Do members ride on weekdays?	Suggests purpose of ride
+Day of Week ->	Do casual riders prefer weekends? Do members ride on weekdays?	Suggests the purpose of ride
+Month -> Does seasonality affect users differently?	Helps with seasonal campaigns
 Hour of Day ->	Are members riding during rush hours?	May point to commute usage
 Popular Stations -> 	Are different start/end stations popular with each group?	Helps in targeted station-level marketing
 Rideable Type -> Do both groups prefer the same bike types?	Could guide fleet management
-Month -> Does seasonality affect users differently?	Helps with seasonal campaigns
 
-Break It Down: Thinking Like a Data Analyst
+
+Break It Down: 
 Ask questions like:
 Group Comparison: What if I group by member_casual — what patterns emerge?
 Trend Detection: Can I observe consistent trends over time (week, month, hour)?
-User Behavior: Are casual riders more likely to ride on weekends? Is their average ride time longer?
-Volume vs Duration: Is higher ride count linked with lower average ride time for one group?
-You can start sketching this out mentally like:
+User Behaviour: Are casual riders more likely to ride on weekends? Is their average ride time longer?
+Volume vs Duration: Is a higher ride count linked with lower average ride time for one group?
 
-4. Prioritize the Most Impactful Insights
+4. Prioritise the Most Impactful Insights
 To help marketing teams, focus on:
 When and how casual riders use the service (to find conversion opportunities)
 What members do differently (to highlight the benefits of becoming a member)
