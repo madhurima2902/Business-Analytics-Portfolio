@@ -5,7 +5,7 @@ Quick links:
 Data Source: divvy_tripdata [accessed on 04/03/23](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 SQL Queries:
-01. Data Combination(https://github.com/madhurima2902/Business-Analytics-Portfolio/blob/main/Capstone%20Project_Cyclistic%20bike-share%20analysis/01_Data%20Combination.sql)
+01. [Data Combination](https://github.com/madhurima2902/Business-Analytics-Portfolio/blob/main/Capstone%20Project_Cyclistic%20bike-share%20analysis/01_Data%20Combination.sql)
 02. Data Exploration
 03. Data Cleaning
 04. Data Analysis
