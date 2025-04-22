@@ -2,7 +2,7 @@ Introduction
 In this case study, I will perform many real-world tasks of a junior data analyst at a fictional company, Cyclistic. In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 Quick links:
-Data Source: divvy_tripdata [accessed on 04/03/23](https://divvy-tripdata.s3.amazonaws.com/index.html)
+Data Source: divvy_tripdata [accessed on 04/22/25](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 SQL Queries:
 01. [Data Combination](https://github.com/madhurima2902/Business-Analytics-Portfolio/blob/main/Capstone%20Project_Cyclistic%20bike-share%20analysis/01_Data%20Combination.sql)
