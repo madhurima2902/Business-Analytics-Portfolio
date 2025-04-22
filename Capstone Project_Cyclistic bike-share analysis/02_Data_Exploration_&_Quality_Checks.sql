@@ -1,4 +1,4 @@
---Data Exploration and Quality Checks*
+--Data Exploration and Quality Checks
 
 -- Display Table
 SELECT *
