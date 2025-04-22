@@ -61,3 +61,31 @@ ORDER BY member_casual,
     WHEN 'Saturday' THEN 6
     WHEN 'Sunday' THEN 7
   END;
+
+-- Monthly Usage Trend
+SELECT 
+  member_casual ,
+  rideable_type ,
+  month,
+  COUNT(*) AS Num_Of_Rides
+FROM
+`aqueous-cargo-456422-q1.bike_data.tripdata_2024_combined_cleaned_enriched`
+GROUP BY 
+  member_casual,
+  rideable_type,
+  month
+ORDER BY member_casual,
+  CASE month
+    WHEN 'January' THEN 1
+    WHEN 'February' THEN 2
+    WHEN 'March' THEN 3
+    WHEN 'April' THEN 4
+    WHEN 'May' THEN 5
+    WHEN 'June' THEN 6
+    WHEN 'July' THEN 7
+    WHEN 'August' THEN 8
+    WHEN 'September' THEN 9
+    WHEN 'October' THEN 10
+    WHEN 'November' THEN 11
+    WHEN 'December' THEN 12
+  END;
