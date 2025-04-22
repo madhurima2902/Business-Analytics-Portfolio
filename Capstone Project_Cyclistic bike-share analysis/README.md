@@ -6,9 +6,9 @@ Data Source: divvy_tripdata [accessed on 04/03/23](https://divvy-tripdata.s3.ama
 
 SQL Queries:
 01. [Data Combination](https://github.com/madhurima2902/Business-Analytics-Portfolio/blob/main/Capstone%20Project_Cyclistic%20bike-share%20analysis/01_Data%20Combination.sql)
-02. Data Exploration
-03. Data Cleaning
-04. Data Analysis
+02. [Data Exploration and Quality Checks](https://github.com/madhurima2902/Business-Analytics-Portfolio/blob/main/Capstone%20Project_Cyclistic%20bike-share%20analysis/02_Data_Exploration_%26_Quality_Checks.sql)
+03. [Data Cleaning](https://github.com/madhurima2902/Business-Analytics-Portfolio/blob/main/Capstone%20Project_Cyclistic%20bike-share%20analysis/03_Data_Cleaning.sql)
+04. [Data Analysis](https://github.com/madhurima2902/Business-Analytics-Portfolio/blob/main/Capstone%20Project_Cyclistic%20bike-share%20analysis/04_Data_Analysis.sql)
 
 Data Visualizations: Tableau
 
