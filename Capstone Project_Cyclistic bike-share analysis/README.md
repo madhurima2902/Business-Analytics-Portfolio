@@ -84,7 +84,7 @@ I created visualizations across Google Sheets, R, and Tableau to highlight key t
 |---------------|-----------|------|
 | Pivot Tables & Charts (Day/Hour/Month Trends) | Google Sheets | [View Google Sheets](https://docs.google.com/spreadsheets/d/1hLZ32S3P3WnF_oUOJc5Lrw9-yDW97XnwFPIKercftM0/edit?gid=1747179733#gid=1747179733) |
 | Static Charts (Boxplots, Bar Charts, Ride Duration Trends) | R (ggplot2) | [View R Visuals](#) |
-| Interactive Dashboards (All-in-one view) | Tableau Public | [View Tableau Dashboard](#) |
+| Interactive Dashboards (All-in-one view) | Tableau Public | [View Tableau Dashboard](https://public.tableau.com/app/profile/ghoshmadhurima/viz/CyclisticBike-ShareCapstoneProject_17453557172800/AverageRideDurationbyDayoftheWeek) |
 
 ### Summary of Key Findings:
 | Casual Riders | Member Riders |
