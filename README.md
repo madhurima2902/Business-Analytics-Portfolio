@@ -24,7 +24,7 @@ I’m enrolled in the **Google Data Analytics Professional Certificate** and act
 
 ## 📂 Featured Projects
 
-### 🔹 [Cyclistic Bike Share Case Study](https://github.com/madhurima2902/Business-Analytics-Portfolio/tree/main/Capstone%20Project%20Bike%20Ride%20Case%20Study)
+### 🔹 [Cyclistic Bike Share Case Study](https://github.com/madhurima2902/Business-Analytics-Portfolio/tree/main/Capstone%20Project_Cyclistic%20bike-share%20analysis)
 
 A capstone case study from the Google Data Analytics course, analysing usage trends of a fictional bike-sharing company to inform business strategy.
 
