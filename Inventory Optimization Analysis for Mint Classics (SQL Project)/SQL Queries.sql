@@ -40,7 +40,7 @@ SELECT w.warehousename, COUNT(p.productcode) AS num_of_products
 FROM warehouseS w
 JOIN productS p on w.warehousecode = p.warehousecode
 GROUP BY w.warehousename
--- HAVING num_of_products < 10
+HAVING num_of_products < 10
 ORDER BY num_of_products ASC;
 -- OUTPUT -> 0 rows selected indicating all warehouses have >10 different types of products ( min value is 23)
 
