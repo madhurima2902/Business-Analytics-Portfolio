@@ -2,15 +2,15 @@ Madhurima Ghosh | Data Analytics Portfolio
 
 Welcome to my professional Data Analytics portfolio. With a background in management consulting and operational excellence, I am now focused on applying data-driven decision-making to solve real-world business problems.
 
-This repository showcases selected projects that demonstrate my ability to work across the data analytics lifecycle—from data cleaning and transformation to analysis, visualization, and insight generation.
+This repository showcases selected projects that demonstrate my ability to work across the data analytics lifecycle—from data cleaning and transformation to analysis, visualisation, and insight generation.
 
 ---
 
 ## 💼 About Me
 
-I am a certified Scrum Master with 6+ years of professional experience in procurement, supplier governance, training development, and business process optimization. Currently based in the US, I am upskilling in data analytics and business intelligence to transition into analyst roles across sectors like finance, manufacturing, and healthcare.
+I am a certified Scrum Master with 6+ years of professional experience in procurement, supplier governance, training development, and business process optimisation. Currently based in the US, I am upskilling in data analytics and business intelligence to transition into analyst roles across sectors like finance, manufacturing, and healthcare.
 
-I’m enrolled in the **Google Data Analytics Professional Certificate** and actively working on real-world projects using Excel, SQL, R, Power BI, and Tableau.
+I have completed the **Google Data Analytics Professional Certificate** and am actively working on real-world projects using Excel, SQL, R, Power BI, and Tableau.
 
 ---
 
@@ -29,8 +29,8 @@ I’m enrolled in the **Google Data Analytics Professional Certificate** and act
 A capstone case study from the Google Data Analytics course, analysing usage trends of a fictional bike-sharing company to inform business strategy.
 
 - Tools:
-  - Data Exploration, Analysis - BigQuery, SQL
-  - Visualizatons - Tableau, R(tidyverse, ggplot2)
+  - Data Exploration, Analysis - BigQuery, SQL, Google Sheets
+  - Visualisations - Google Sheets, Tableau, R(tidyverse, ggplot2)
 - Key Tasks: Data cleaning, trend analysis, visualisation, business recommendations
 - Outcome: Actionable insights on user behaviour to support marketing decisions
 
@@ -52,4 +52,4 @@ Cleaned and structured a raw sales dataset to prepare it for further analysis. F
   
 ---
 
-Thank you for visiting! Feel free to explore the individual folders for project-specific documentation, code, and visualizations.
+Thank you for visiting! Feel free to explore the individual folders for project-specific documentation, code, and visualisations.
