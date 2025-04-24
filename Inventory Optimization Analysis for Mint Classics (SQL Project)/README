@@ -1,0 +1,56 @@
+# Inventory Optimization Analysis for Mint Classics (SQL Project)
+
+## Project Overview
+
+This project simulates a real-world scenario where I step into the role of an entry-level data analyst at **Mint Classics Company**, a fictional retailer of collectible model vehicles. The company is considering **closing one of its storage facilities** and requires **data-driven recommendations** to reorganize or reduce inventory while ensuring products can still be shipped within **24 hours** of customer orders.
+
+## Scenario
+
+Mint Classics is seeking to make strategic inventory decisions. They need insights on:
+
+- Where products are stored and whether a warehouse can be eliminated.
+- Whether inventory levels align with sales performance.
+- Which items are underperforming and could be discontinued.
+
+My role was to analyze a **relational SQL database** provided by the company and use **MySQL Workbench** to answer key business questions through structured queries and insights.
+
+## Project Objectives
+
+- Explore current inventory data across storage facilities.
+- Identify patterns influencing inventory reduction or reorganization.
+- Generate actionable insights to support closing one warehouse.
+- Deliver recommendations backed by SQL analysis.
+
+## Key Business Questions
+
+1. **Storage Optimization**  
+   Can products be reorganized to enable closing one of the warehouses?
+
+2. **Sales Alignment**  
+   Are inventory levels proportional to actual sales trends?
+
+3. **Product Performance**  
+   Are there slow-moving or obsolete items that can be phased out?
+
+## 🛠 Tools & Technologies
+
+- **SQL (MySQL Workbench)**
+- **Relational Database (Mint Classics sample data)**
+- **ERD / Data Model** *(Provided in project resources)*
+
+## Process
+
+1. Imported and explored the Mint Classics relational database.
+2. Studied the data model and key relationships between tables.
+3. Posed relevant business questions and drafted SQL queries.
+4. Analyzed the data using SELECT, JOINs, GROUP BY, HAVING, and filtering clauses.
+5. Summarized findings and compiled recommendations.
+
+## Insights & Recommendations
+
+🔹 *(To be added after analysis)*  
+This section will include:
+- Products identified for potential removal from inventory
+- Suggestions for redistributing stock between warehouses
+- Recommendations for closing a specific storage facility
+
