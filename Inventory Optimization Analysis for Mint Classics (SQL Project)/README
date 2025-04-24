@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project simulates a real-world scenario where I step into the role of an entry-level data analyst at **Mint Classics Company**, a fictional retailer of collectible model vehicles. The company is considering **closing one of its storage facilities** and requires **data-driven recommendations** to reorganize or reduce inventory while ensuring products can still be shipped within **24 hours** of customer orders.
+This project simulates a real-world scenario where I step into the role of a data analyst at **Mint Classics Company**, a fictional retailer of collectible model vehicles.
+The company is considering **closing one of its storage facilities** and requires **data-driven recommendations** to reorganise or reduce inventory while ensuring products can still be shipped within **24 hours** of customer orders.
 
 ## Scenario
 
@@ -45,6 +46,8 @@ My role was to analyze a **relational SQL database** provided by the company and
 3. Posed relevant business questions and drafted SQL queries.
 4. Analyzed the data using SELECT, JOINs, GROUP BY, HAVING, and filtering clauses.
 5. Summarized findings and compiled recommendations.
+
+[SQL Queries]
 
 ## Insights & Recommendations
 
