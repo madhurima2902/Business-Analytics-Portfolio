@@ -33,7 +33,7 @@ My role was to analyze a **relational SQL database** provided by the company and
 3. **Product Performance**  
    Are there slow-moving or obsolete items that can be phased out?
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **SQL (MySQL Workbench)**
 - **Relational Database (Mint Classics sample data)**
@@ -51,7 +51,7 @@ My role was to analyze a **relational SQL database** provided by the company and
 
 ## Insights & Recommendations
 
-🔹 Insights
+Insights
 1. Utilization Rate
 South warehouse has the highest utilization (0.28), meaning it turns over stock faster than others.
 East and West warehouses have lower utilization (0.16 and 0.18), which implies slower movement of inventory and higher holding costs.
@@ -68,13 +68,13 @@ North and South are leaner in this aspect, with only 2 and 1 zero-demand product
 Final scoring (a weighted average of utilization, exclusivity, and demand efficiency) shows North and South clearly leading.
 West warehouse, despite having high-value items, ranks low on efficiency and demand alignment and lacks critical exclusivity — making it the only candidate for potential closure under your current model.
 
-📌 Recommendations
-✅ Retain North and South Warehouses
+Recommendations
+Retain North and South Warehouses
 Both have solid utilization and fewer zero-demand products.
 Their leaner operations suggest efficiency and flexibility.
 Continue operations with current stock strategy, but keep optimizing demand forecasting.
 
-🚪 Consider Closure of West Warehouse
+Consider Closure of West Warehouse
 Even though it holds several high-demand products, its low utilization and higher zero-demand rate reduce overall efficiency.
 It lacks strategic exclusivity compared to East, making it easier to redistribute inventory.
 If closure is pursued:
@@ -82,7 +82,7 @@ Relocate high-performing SKUs from West to North and South.
 Discontinue or discount low-demand inventory before closure.
 Ensure exclusive products are duplicated in remaining warehouses to avoid stockouts.
 
-🔁 Retain East but Optimize
+Retain East but Optimize
 High exclusive count makes East critical to retain.
 However, low utilization and high zero-demand suggest poor product lifecycle management.
 Implement SKU rationalization and better demand planning.
