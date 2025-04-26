@@ -51,9 +51,39 @@ My role was to analyze a **relational SQL database** provided by the company and
 
 ## Insights & Recommendations
 
-🔹 *(To be added after analysis)*  
-This section will include:
-- Products identified for potential removal from inventory
-- Suggestions for redistributing stock between warehouses
-- Recommendations for closing a specific storage facility
+🔹 Insights
+1. Utilization Rate
+South warehouse has the highest utilization (0.28), meaning it turns over stock faster than others.
+East and West warehouses have lower utilization (0.16 and 0.18), which implies slower movement of inventory and higher holding costs.
+
+2. Exclusive Product Holdings
+East holds the highest number of exclusive products (38), meaning it stocks many items not available in other warehouses — a critical factor for retention.
+West has fewer exclusive products than East but still ranks high (24), suggesting some consolidation potential.
+
+3. Zero Demand Products
+East and West have more products that haven’t been ordered at all (4 and 3, respectively), indicating inefficiencies or overstocking.
+North and South are leaner in this aspect, with only 2 and 1 zero-demand products.
+
+4. Scoring Insights
+Final scoring (a weighted average of utilization, exclusivity, and demand efficiency) shows North and South clearly leading.
+West warehouse, despite having high-value items, ranks low on efficiency and demand alignment and lacks critical exclusivity — making it the only candidate for potential closure under your current model.
+
+📌 Recommendations
+✅ Retain North and South Warehouses
+Both have solid utilization and fewer zero-demand products.
+Their leaner operations suggest efficiency and flexibility.
+Continue operations with current stock strategy, but keep optimizing demand forecasting.
+
+🚪 Consider Closure of West Warehouse
+Even though it holds several high-demand products, its low utilization and higher zero-demand rate reduce overall efficiency.
+It lacks strategic exclusivity compared to East, making it easier to redistribute inventory.
+If closure is pursued:
+Relocate high-performing SKUs from West to North and South.
+Discontinue or discount low-demand inventory before closure.
+Ensure exclusive products are duplicated in remaining warehouses to avoid stockouts.
+
+🔁 Retain East but Optimize
+High exclusive count makes East critical to retain.
+However, low utilization and high zero-demand suggest poor product lifecycle management.
+Implement SKU rationalization and better demand planning.
 
